@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebApiScaffoldVSIX/v15
+/.vs/WebApiScaffoldVSIX/v16
+/WebApiScaffoldVSIX/bin
+/WebApiScaffoldVSIX/obj
